@@ -25,5 +25,12 @@ btn_down = 1;</br>
 btn_left = 2;</br>
 btn_right = 3;</br>
 
+# Shift Register 74HC595 Diagram
+![Screenshot 2020-05-22 at 1 44 53 PM](https://user-images.githubusercontent.com/40122399/82646602-7f85e280-9c32-11ea-9314-6aba6032bcc5.png)
+
+# Circuit Diagram
 ![Screenshot 2020-05-22 at 1 36 04 PM](https://user-images.githubusercontent.com/40122399/82645882-3a14e580-9c31-11ea-8640-e3d78d7f7425.png)
+
+
+
 
