@@ -1,14 +1,14 @@
 # Snake-Game Bi-colour led
 
 # Components Used:
-Arduino UNO
-Self made 8x8 LED Dot Matrix Display using 64 Bi-color LED
-Shift Register 74HC595
-Push Buttons
-Connecting wires
-Bread Board
-Power Supply
-2x Seven Segment Display
+Arduino UNO</br>
+Self made 8x8 LED Dot Matrix Display using 64 Bi-color LED</br>
+Shift Register 74HC595</br>
+Push Buttons</br>
+Connecting wires</br>
+Bread Board</br>
+Power Supply</br>
+2x Seven Segment Display</br>
 
 # Video
 https://drive.google.com/open?id=1FGI-Uws5thmpM7iJ8F73kbpuhiqAwAFZ
