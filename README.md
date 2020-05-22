@@ -1,5 +1,5 @@
 # Snake-Game Bi-colour led
-A snake game on Arduino with LED matrix 8x8
+A snake game on Arduino with LED matrix 8x8 **using 3 pins!**
 
 # Components Used:
 Arduino UNO</br>
