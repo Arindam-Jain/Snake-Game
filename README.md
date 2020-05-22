@@ -31,6 +31,9 @@ btn_right = 3;</br>
 # Circuit Diagram
 ![Screenshot 2020-05-22 at 1 36 04 PM](https://user-images.githubusercontent.com/40122399/82645882-3a14e580-9c31-11ea-8640-e3d78d7f7425.png)
 
+![Screenshot 2020-05-22 at 1 48 47 PM](https://user-images.githubusercontent.com/40122399/82646934-089d1980-9c33-11ea-8f02-dd516c59d526.png)
+
+
 
 
 
